@@ -16,7 +16,7 @@ Download my Curriculum Vitae ([PDF](1695867237691.pdf))
 
 ## 📚 Education
 - `Aug 2023-Present` PhD in Computer Science @ University of North Carolina,Charlotte USA.
-- `2021-2023`M.S in Computer Science @ Wayne State Univeristy, Detroit Michigan (INCOMPLETE- Transferred to UNCC)
+- `2021-2023` M.S in Computer Science @ Wayne State Univeristy, Detroit Michigan (INCOMPLETE- Transferred to UNCC)
 - `2017-2021` B.Tech. in Computer Science and Engineering @ Maulana Abul Kalam Azad Univeristy of Technology, India
 
 ## 🔬 Experience
@@ -25,7 +25,7 @@ Download my Curriculum Vitae ([PDF](1695867237691.pdf))
 - `July 2020- Aug 2020` Research Intern @ Jadavpur University,Kolkaata
 - `Sep 2020 - Feb 2021 `Research Intern @ University of Erlangen-Nuremberg,Germany.
 - `Mar 2022 - Jul 2022` Student Research Assistant @ PURE LAB,Wayne State University,Detroit,USA
-- `2023-present` Graduate Research Assistant @ University of North Carolina,Charlotte, USA
+- `Aug 2023-present` Graduate Research Assistant @ University of North Carolina,Charlotte, USA
 
 ## 📝 Teaching experience
 - `Aug 2022- Dec 2022` Teaching Assistant for CSC 1100- Problem-Solving and Programming and CSC 2110- Computer Science I @ Wayne State University,Detroit,USA
