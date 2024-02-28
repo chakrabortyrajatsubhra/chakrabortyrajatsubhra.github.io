@@ -46,6 +46,8 @@ Download my Curriculum Vitae ([PDF](1695867237691.pdf))
 ## 💡 News 
 - [Multiview Aerial Visual Recognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?](https://arxiv.org/abs/2312.04548) paper got accepted in [CVPR 2024](https://cvpr.thecvf.com)!! Check out the website for [MAVREC](https://mavrec.github.io). See you soon Seattle!
 
+## 📐Organizer
+-Seminar Organizer for ITSC 8699 -Graduate Resaerch Seminar  @ University of North Carolina Charotte. (If you are willing to present your work you can contact me)
 
 ## Contact
 - rchakra6@charlotte.edu
