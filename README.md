@@ -7,9 +7,12 @@ From mangas to comic books to detective novels these things keep me glued all da
 
 Download my Curriculum Vitae ([PDF](1695867237691.pdf))
 
+
+
 ### 📊 Interests
 
  `Computer Vision`, `Object Detection`, `Long Video Understanding`, `Vision Language Models`, `Activities of Daily Living`, `Semi-Supervised Learning`
+ 
 
 ## 📚 Education
 - `Aug 2023-Present` PhD in Computer Science @ University of North Carolina,Charlotte USA.
@@ -30,11 +33,15 @@ Download my Curriculum Vitae ([PDF](1695867237691.pdf))
 
 ### 🔍 Reviewer
 - International Conference on Intelligent Systems for Molecular Biology (ISMB) 2024
+  
 
 ### ⚙️ Volunteer
 - [IEEE IRI 2022 conference](https://homepages.uc.edu/~niunn/IRI22/committee_organizing.html)
-## Publications
+
+  
+### Publications
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=39r7ciQAAAAJ&view_op=list_works&sortby=pubdate)
+  
 
 ## 💡 News 
 - [Multiview Aerial Visual Recognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?](https://arxiv.org/abs/2312.04548) paper got accepted in [CVPR 2024](https://cvpr.thecvf.com)!! Check out the website for [MAVREC](https://mavrec.github.io). See you soon Seattle!
