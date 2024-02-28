@@ -7,16 +7,16 @@ From mangas to comic books to detective novels these things keep me glued all da
 
 Download my Curriculum Vitae ([PDF](1695867237691.pdf))
 
-### Interests
+### 📊 Interests
 
  `Computer Vision`, `Object Detection`, `Long Video Understanding`, `Vision Language Models`, `Activities of Daily Living`, `Semi-Supervised Learning`
 
-## Education
+## 📚 Education
 - `Aug 2023-Present` PhD in Computer Science @ University of North Carolina,Charlotte USA.
 - `2021-2023`M.S in Computer Science @ Wayne State Univeristy, Detroit Michigan (INCOMPLETE- Transferred to UNCC)
 - `2017-2021` B.Tech. in Computer Science and Engineering @ Maulana Abul Kalam Azad Univeristy of Technology, India
 
-## Experience
+## 🔬 Experience
 ### Research experience
 - `May 2020-July 2020` Summer Research Intern @ Indian Statistical Institute, Kolkata
 - `July 2020- Aug 2020` Research Intern @ Jadavpur University,Kolkaata
@@ -24,12 +24,12 @@ Download my Curriculum Vitae ([PDF](1695867237691.pdf))
 - `Mar 2022 - Jul 2022` Student Research Assistant @ PURE LAB,Wayne State University,Detroit,USA
 - `2023-present` Graduate Research Assistant @ University of North Carolina,Charlotte, USA
 
-### Teaching experience
+###📝 Teaching experience
 - `Aug 2022- Dec 2022` Teaching Assistant for CSC 1100- Problem-Solving and Programming and CSC 2110- Computer Science I @ Wayne State University,Detroit,USA
 - `Jan 2023- May 2023` Teaching Assistant for CSC 7760- Deep Learning and CSC 5750- Principles of Web Technologies @ Wayne State University,Detroit,USA
 
-### Reviewer
-- International Conference on Intelligent Systems for Molecular Biology (ISMB)
+### 🔍 Reviewer
+- International Conference on Intelligent Systems for Molecular Biology (ISMB) 2024
 
 ### ⚙️ Volunteer
 - [IEEE IRI 2022 conference](https://homepages.uc.edu/~niunn/IRI22/committee_organizing.html)
