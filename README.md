@@ -1,4 +1,4 @@
-### About
+## About
 
 From mangas to comic books to detective novels these things keep me glued all day long. A foodie and a Batman fanatic, I spend most of my leisure time reading about human evolution and anthropology. I am a first-year Ph.D. student at University of North Carolina Charlotte under the guidance of [Dr.Srijan Das](https://srijandas07.github.io) and currently I am exploring the use of semi-supervised learning in object detection and understanding long videos with VLMs. Previously, I was doing research in the use of Diffusion Models in Medical Images. I did my undergraduate in Kolkata from Future Institute of Engineering and Management where my thesis was in the area of character recognition in Devanagari and Bengali script under the guidance of [Dr. Shibaprasad Sen](https://www.cmaterju.in/scholars/shibaprasad-sen). If you love playing FIFA and talking about research and comic books, do drop by in [Charlotte Machine Learning Lab](https://charlotteml.github.io) in Woordward Hall ,UNC Charlotte, North Carolina.
 >"Greatest glory in living lies not in never falling, but in rising every time we fall."-
@@ -27,7 +27,7 @@ Download my Curriculum Vitae ([PDF](1695867237691.pdf))
 - `Mar 2022 - Jul 2022` Student Research Assistant @ PURE LAB,Wayne State University,Detroit,USA
 - `2023-present` Graduate Research Assistant @ University of North Carolina,Charlotte, USA
 
-### 📝 Teaching experience
+## 📝 Teaching experience
 - `Aug 2022- Dec 2022` Teaching Assistant for CSC 1100- Problem-Solving and Programming and CSC 2110- Computer Science I @ Wayne State University,Detroit,USA
 - `Jan 2023- May 2023` Teaching Assistant for CSC 7760- Deep Learning and CSC 5750- Principles of Web Technologies @ Wayne State University,Detroit,USA
 
