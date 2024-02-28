@@ -1,51 +1,49 @@
 ### About
 
-I am a PhD Computer Science student at the University of Kentucky. I am also a Research Assistant at the [EduceLab](https://educelab.engr.uky.edu/directory) under the supervision of [Dr. Brent Seales](https://educelab.engr.uky.edu/w-brent-seales). I enjoy doing research in Computer Science, specifically in the field of Computer Vision, Computer Graphics, and Machine Learning. I am interested in the application of these techniques to Digital Humanities. I am excited to discover new contents from damaged antique artifacts, which no one has ever been able to see.
-
->"Life is a system of an overdetermined system of equations. You cannot satisfy everyone."
->-Ankan
+From mangas to comic books to detective novels these things keep me glued all day long. A foodie and a Batman fanatic, I spend most of my leisure time reading about human evolution and anthropology. I am a first-year Ph.D. student at University of North Carolina Charlotte under the guidance of [Dr.Srijan Das](https://srijandas07.github.io) and currently I am exploring the use of semi-supervised learning in object detection and understanding long videos with VLMs. Previously, I was doing research in the use of Diffusion Models in Medical Images. I did my undergraduate in Kolkata from Future Institute of Engineering and Management where my thesis was in the area of character recognition in Devanagari and Bengali script under the guidance of [Dr. Shibaprasad Sen](https://www.cmaterju.in/scholars/shibaprasad-sen). If you love playing FIFA and talking about research and comic books, do drop by in [Charlotte Machine Learning Lab](https://charlotteml.github.io) in Woordward Hall ,UNC Charlotte, North Carolina.
+>"Greatest glory in living lies not in never falling, but in rising every time we fall."-
+>-Nelson Mandela 
 
 
 Download my Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
 
 ### Interests
 
-`Computer Graphics`, `Computer Vision`, `View interpolation`, `Neural Radiance Field (NeRF)`, `Photogrammetry`, `Structure From Motion (SFM)`, `Homography`, `Image Registration`, `Image Recognition`, `Deep Learning`, `Heritage Science`, `Multi View Stereo (MVS)`, `Multi View Geometry (MVG)`
+ `Computer Vision`, `Object Detection`, `Long Video Understanding`, `Vision Language Models`, `Activities of Daily Living`, `Semi-Supervised Learning`
 
 ## Education
-- `2021-Present` PhD in Computer Science @ University of Kentucky, USA
-- `2013-2017` B.Tech. in Computer Science and Engineering @ West Bengal University of Technology, India
+- `Aug 2023-Present` PhD in Computer Science @ University of North Carolina,Charlotte USA.
+- `2021-2023`M.S in Computer Science @ Wayne State Univeristy, Detroit Michigan (INCOMPLETE- Transferred to UNCC)
+- `2017-2021` B.Tech. in Computer Science and Engineering @ Maulana Abul Kalam Azad Univeristy of Technology, India
 
 ## Experience
-### Work experience
-- `2017-2021` AWS Developer @ Cognizant Technology Solutions, India
-- `2022-present` Graduate Research Assistant @ University of Kentucky, USA
+### Research experience
+- `May 2020-July 2020` Summer Research Intern @ Indian Statistical Institute, Kolkata
+- `July 2020- Aug 2020` Research Intern @ Jadavpur University,Kolkaata
+- `Sep 2020 - Feb 2021 `Research Intern @ University of Erlangen-Nuremberg,Germany.
+- `Mar 2022 - Jul 2022` Student Research Assistant @ PURE LAB,Wayne State University,Detroit,USA
+- `2023-present` Graduate Research Assistant @ University of North Carolina,Charlotte, USA
 
 ### Teaching experience
-- `2021-2022` Teaching Assistant for Undergraduate Computer Graphics @ University of Kentucky, USA
+- `Aug 2022- Dec 2022` Teaching Assistant for CSC 1100- Problem-Solving and Programming and CSC 2110- Computer Science I @ Wayne State University,Detroit,USA
+- `Jan 2023- May 2023` Teaching Assistant for CSC 7760- Deep Learning and CSC 5750- Principles of Web Technologies @ Wayne State University,Detroit,USA
 
-### Journal Reviews
-- Pervasive and Mobile Computing
-- ACM Transactions on Asian and Low-Resource Language Information Processing (ACM TALLIP)
+### Reviewer
+- International Conference on Intelligent Systems for Molecular Biology (ISMB)
 
+### ⚙️ Volunteer
+- [IEEE IRI 2022 conference](https://homepages.uc.edu/~niunn/IRI22/committee_organizing.html)
 ## Publications
-- [Google Scholar](https://scholar.google.co.in/citations?user=oGPRM7gAAAAJ&hl=en)
-- [ORCID](https://orcid.org/0000-0002-5399-8703)
-- [DBLP](https://dblp.org/pid/220/8851.html)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=39r7ciQAAAAJ&view_op=list_works&sortby=pubdate)
 
-## Honors and Awards
-- Outstanding Student Paper Award, [”A deep learning model for classifying human facial expressions from infrared
-thermal images”](https://www.nature.com/articles/s41598-021-99998-z), University of Kentucky, Department of Computer Science, April 2022.
--  UniPi Merit Scholarship for Master’s Degree (Laurea Magistrale) in Computer Science A.Y. 2021/2022 awarded by
-University of Pisa, Italy (Did not avail)
--  Most Valuable Player (MVP) 2019, from Travel & Hospitality, Cognizant for outstanding performance in contributing to the Domain.
-- First position in Ideathon 2018 Hackathon in Cognizant, as a team, for making a voice-powered search engine, "iSearch".
-- The Best Project Award by Cognizant, in 2017. The work was published [Here](https://link.springer.com/article/10.1007/s00521-019-04518-w)
+## 💡 News 
+- [Multiview Aerial Visual Recognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?](https://arxiv.org/abs/2312.04548) paper got accepted in CVPR 2024!! Check out the website for [MAVREC](https://mavrec.github.io). See you soon Seattle!
 
 
 ## Contact
-- ankan dot bhattacharyya @uky.edu
-- [LinkedIn](https://www.linkedin.com/in/ankancs94/)
+- rchakra6@charlotte.edu
+- [LinkedIn](https://www.linkedin.com/in/rajatsubhra-chakraborty-6bb133168/)
+- [Twitter](https://twitter.com/Rajat_wayne)
 
 
 <!--## Test
