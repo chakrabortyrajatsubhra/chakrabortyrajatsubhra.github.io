@@ -31,11 +31,11 @@ Download my Curriculum Vitae ([PDF](1695867237691.pdf))
 - `Aug 2022- Dec 2022` Teaching Assistant for CSC 1100- Problem-Solving and Programming and CSC 2110- Computer Science I @ Wayne State University,Detroit,USA
 - `Jan 2023- May 2023` Teaching Assistant for CSC 7760- Deep Learning and CSC 5750- Principles of Web Technologies @ Wayne State University,Detroit,USA
 
-### 🔍 Reviewer
+## 🔍 Reviewer
 - International Conference on Intelligent Systems for Molecular Biology (ISMB) 2024
   
 
-### ⚙️ Volunteer
+## ⚙️ Volunteer
 - [IEEE IRI 2022 conference](https://homepages.uc.edu/~niunn/IRI22/committee_organizing.html)
 
   
