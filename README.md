@@ -24,7 +24,7 @@ Download my Curriculum Vitae ([PDF](1695867237691.pdf))
 - `Mar 2022 - Jul 2022` Student Research Assistant @ PURE LAB,Wayne State University,Detroit,USA
 - `2023-present` Graduate Research Assistant @ University of North Carolina,Charlotte, USA
 
-###📝 Teaching experience
+### 📝 Teaching experience
 - `Aug 2022- Dec 2022` Teaching Assistant for CSC 1100- Problem-Solving and Programming and CSC 2110- Computer Science I @ Wayne State University,Detroit,USA
 - `Jan 2023- May 2023` Teaching Assistant for CSC 7760- Deep Learning and CSC 5750- Principles of Web Technologies @ Wayne State University,Detroit,USA
 
@@ -37,7 +37,7 @@ Download my Curriculum Vitae ([PDF](1695867237691.pdf))
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=39r7ciQAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## 💡 News 
-- [Multiview Aerial Visual Recognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?](https://arxiv.org/abs/2312.04548) paper got accepted in CVPR 2024!! Check out the website for [MAVREC](https://mavrec.github.io). See you soon Seattle!
+- [Multiview Aerial Visual Recognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?](https://arxiv.org/abs/2312.04548) paper got accepted in [CVPR 2024](https://cvpr.thecvf.com)!! Check out the website for [MAVREC](https://mavrec.github.io). See you soon Seattle!
 
 
 ## Contact
