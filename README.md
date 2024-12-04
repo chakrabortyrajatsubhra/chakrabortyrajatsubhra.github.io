@@ -1,6 +1,6 @@
 ## About
 
-From mangas to comic books to detective novels these things keep me glued all day long. A foodie and a Batman fanatic, I spend most of my leisure time reading about human evolution and anthropology. I am a first-year Ph.D. student at University of North Carolina Charlotte under the guidance of [Dr.Srijan Das](https://srijandas07.github.io) and currently I am exploring the use of semi-supervised learning in object detection and understanding long videos with VLMs. Previously, I was doing research in the use of Diffusion Models in Medical Images. I did my undergraduate in Kolkata from Future Institute of Engineering and Management where my thesis was in the area of character recognition in Devanagari and Bengali script under the guidance of [Dr. Shibaprasad Sen](https://www.cmaterju.in/scholars/shibaprasad-sen). If you love playing FIFA and talking about research and comic books, do drop by in [Charlotte Machine Learning Lab](https://charlotteml.github.io) in Woordward Hall ,UNC Charlotte, North Carolina.
+From mangas to comic books to detective novels these things keep me glued all day long. A foodie and a Batman fanatic, I spend most of my leisure time reading about human evolution and anthropology. I am a first-year Ph.D. student at University of North Carolina Charlotte under the guidance of [Dr.Depeng Xu](https://webpages.charlotte.edu/dxu7/) and currently I am exploring how to mitigate biases in Text-To-Image Models. Previously, I was doing research in the area of multimodal understanding of LVLMs and semi-supervised object detction. I did my undergraduate in Kolkata from Future Institute of Engineering and Management where my thesis was in the area of character recognition in Devanagari and Bengali script under the guidance of [Dr. Shibaprasad Sen](https://www.cmaterju.in/scholars/shibaprasad-sen). If you love playing FIFA and talking about research and comic books, do drop by in [Charlotte Machine Learning Lab](https://charlotteml.github.io) in Woordward Hall ,UNC Charlotte, North Carolina.
 >"Greatest glory in living lies not in never falling, but in rising every time we fall."-
 >-Nelson Mandela 
 
@@ -11,7 +11,7 @@ Download my Curriculum Vitae ([PDF](1695867237691.pdf))
 
 ### 📊 Interests
 
- `Computer Vision`, `Object Detection`, `Long Video Understanding`, `Vision Language Models`, `Activities of Daily Living`, `Semi-Supervised Learning`
+ `Computer Vision`, `Fairness in AI`, `Text-To-Image Models`, `Large Vision Language Models`, `Bias Mitigation`, `Interpretibility in GenAI`
  
 
 ## 📚 Education
@@ -45,7 +45,8 @@ Download my Curriculum Vitae ([PDF](1695867237691.pdf))
 
 ## 💡 News 
 
-- New paper released 🔥 [LLAVIDAL: Benchmarking Large Language Vision Models for Daily Activities of Living](https://arxiv.org/abs/2406.09390). Have a look at the website- [LLAVIDAL](https://adl-x.github.io)
+- A short version of [LLAVDIAL](https://drive.google.com/file/d/1KrCkEWpLn0zsupdiwXFYlsZ3N9tEsKSi/view) got accepted in [MAR workshop](https://marworkshop.github.io/neurips24/) and [VLM workshop](https://video-and-language-workshop-2024.webflow.io) in NeurIPS 2024!!
+- Paper released 🔥 [LLAVIDAL: Benchmarking Large Language Vision Models for Daily Activities of Living](https://arxiv.org/abs/2406.09390). Have a look at the website- [LLAVIDAL](https://adl-x.github.io)
 - [Multiview Aerial Visual Recognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?](https://arxiv.org/abs/2312.04548) paper got accepted in [CVPR 2024](https://cvpr.thecvf.com)!! Check out the website for [MAVREC](https://mavrec.github.io). See you soon Seattle!
 
 
