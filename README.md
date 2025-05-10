@@ -47,6 +47,7 @@ Download my Curriculum Vitae ([PDF](1695867237691.pdf))
   
 
 ## 💡 News 
+- :tada: BiasMap: Can Cross-Attention Uncover Hidden Social Biases?" has been accepted at the CVPR 2025 [DemoDiv Workshop!](https://sites.google.com/view/cvpr-2025-demodiv/home?authuser=0) This is my first collaborative work with Dr. Depeng Xu and Dr. Cori Faklaris
 - [TruthLens](https://arxiv.org/abs/2503.15342) preprint is out now!
 - 🤌 [LLAVIDAL](https://adl-x.github.io/) is accepted to CVPR 2025!!! See you soon Nashville!
 - A short version of [LLAVDIAL](https://drive.google.com/file/d/1KrCkEWpLn0zsupdiwXFYlsZ3N9tEsKSi/view) got accepted in [MAR workshop](https://marworkshop.github.io/neurips24/) and [VLM workshop](https://video-and-language-workshop-2024.webflow.io) in NeurIPS 2024!!
