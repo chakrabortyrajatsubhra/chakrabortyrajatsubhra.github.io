@@ -1,6 +1,6 @@
 ## About
 
-From mangas to comic books to detective novels these things keep me glued all day long. A foodie and a Batman fanatic, I spend most of my leisure time reading about human evolution and anthropology. I am a second-year Ph.D. student at University of North Carolina Charlotte under the guidance of [Dr.Depeng Xu](https://webpages.charlotte.edu/dxu7/) and [Dr.Cori Faklaris](https://corifaklaris.com) ,currently I am exploring how to mitigate biases in Text-To-Image Models and do research in the intersection of interpretibility,fairness and bias. Previously, I was doing research in the area of multimodal understanding of LVLMs and semi-supervised object detection. I did my undergraduate in Kolkata from Future Institute of Engineering and Management where my thesis was in the area of character recognition in Devanagari and Bengali script under the guidance of [Dr. Shibaprasad Sen](https://www.cmaterju.in/scholars/shibaprasad-sen). If you love playing FIFA and talking about research and comic books, do drop by in Woordward Hall 3rd Floor RM 312 ,UNC Charlotte, North Carolina.
+From mangas to comic books to detective novels these things keep me glued all day long. A foodie and a Batman fanatic, I spend most of my leisure time reading about human evolution and anthropology. I am a second-year Ph.D. student at University of North Carolina Charlotte under the guidance of [Dr.Depeng Xu](https://webpages.charlotte.edu/dxu7/) and [Dr.Cori Faklaris](https://corifaklaris.com) ,currently I am exploring how to mitigate biases in Text-To-Image Models and do research in the intersection of interpretibility,fairness and bias. Previously, I was doing research in the area of multimodal understanding of LVLMs and semi-supervised object detection. I did my undergraduate in Kolkata from Future Institute of Engineering and Management where my thesis was in the area of character recognition in Devanagari and Bengali script under the guidance of [Dr. Shibaprasad Sen](https://www.cmaterju.in/scholars/shibaprasad-sen). If you love playing FIFA and talking about research and comic books, do drop by in Woordward Hall 3rd Floor RM 331 ,UNC Charlotte, North Carolina.
 >"Greatest glory in living lies not in never falling, but in rising every time we fall."-
 >-Nelson Mandela 
 
@@ -22,14 +22,15 @@ Download my Curriculum Vitae ([PDF](1695867237691.pdf))
 ## 🔬 Experience
 ### Research experience
 - `May 2020-July 2020` Summer Research Intern @ Indian Statistical Institute, Kolkata
-- `July 2020- Aug 2020` Research Intern @ Jadavpur University,Kolkaata
+- `July 2020- Aug 2020` Research Intern @ Jadavpur University,Kolkata
 - `Sep 2020 - Feb 2021 `Research Intern @ University of Erlangen-Nuremberg,Germany.
 - `Mar 2022 - Jul 2022` Student Research Assistant @ PURE LAB,Wayne State University,Detroit,USA
 - `Aug 2023-present` Graduate Research Assistant @ University of North Carolina,Charlotte, USA
 
 ## 📝 Teaching experience
 
-- `Jan 2025- May 2025` Lead TA for ITSC 3146 - -Intro Oper Syst & Networking @ University of North Carolina,Charlotte,USA
+- `May 2025- Aug 2025` TA for ITIS 4250/5250 - Computer Forensics @ University of North Carolina,Charlotte,USA
+- `Jan 2025- May 2025` Lead TA for ITSC 3146 -Intro Oper Syst & Networking @ University of North Carolina,Charlotte,USA
 - `Aug 2022- Dec 2022` Teaching Assistant for CSC 1100- Problem-Solving and Programming and CSC 2110- Computer Science I @ Wayne State University,Detroit,USA
 - `Jan 2023- May 2023` Teaching Assistant for CSC 7760- Deep Learning and CSC 5750- Principles of Web Technologies @ Wayne State University,Detroit,USA
 
@@ -37,6 +38,11 @@ Download my Curriculum Vitae ([PDF](1695867237691.pdf))
 - International Conference on Intelligent Systems for Molecular Biology (ISMB) 2024
 - ReGen AI workshop ,CVPR Workshop 2025 Nashville TN.
 - DemoDiv workshop,CVPR Workshop 2025 Nashville TN.
+- IEEE Transactions on Multimedia 2025
+- ICML DIGBUGS Workshop Program Committee Member 2025 ,Vancouver,BC.
+- ACL SRW 2025
+- CIKM 2025
+- EMNLP 2025
   
 
 ## ⚙️ Volunteer
@@ -48,7 +54,8 @@ Download my Curriculum Vitae ([PDF](1695867237691.pdf))
   
 
 ## 💡 News 
--  BiasMap: Can Cross-Attention Uncover Hidden Social Biases?" has been accepted at the CVPR 2025 [DemoDiv Workshop!](https://sites.google.com/view/cvpr-2025-demodiv/home?authuser=0) This is my first collaborative work with Dr. Depeng Xu and Dr. Cori Faklaris
+-  I will be giving a contributed talk in Room 213 of Music City Centre, Nashville, TN, of the DemoDiv CVPR workshop on June 11th at 11:45 AM.
+-  [BiasMap: Can Cross-Attention Uncover Hidden Social Biases?"](https://openreview.net/pdf?id=rkp2te25Wf) has been accepted at the CVPR 2025 [DemoDiv Workshop!](https://sites.google.com/view/cvpr-2025-demodiv/home?authuser=0) This is my first collaborative work with Dr. Depeng Xu and Dr. Cori Faklaris
 - [TruthLens](https://arxiv.org/abs/2503.15342) preprint is out now!
 - 🤌 [LLAVIDAL](https://adl-x.github.io/) is accepted to CVPR 2025!!! See you soon Nashville!
 - A short version of [LLAVDIAL](https://drive.google.com/file/d/1KrCkEWpLn0zsupdiwXFYlsZ3N9tEsKSi/view) got accepted in [MAR workshop](https://marworkshop.github.io/neurips24/) and [VLM workshop](https://video-and-language-workshop-2024.webflow.io) in NeurIPS 2024!!
