@@ -55,15 +55,15 @@ Download my Curriculum Vitae ([PDF](Resume_Rajatsubhra%20(8).pdf))
 ## ⭐ Selected Publications
 
 ### 2026
-- **BiasMap: Leveraging Cross-Attentions to Discover and Mitigate Hidden Social Biases in Text-to-Image Generation.** *<u>**Rajatsubhra Chakraborty**</u>, Xujun Che, Depeng Xu, Cori Faklaris, Xi Niu, Shuhan Yuan.* ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026. 🇰🇷 Jeju, South Korea. [[Paper]](https://arxiv.org/abs/2509.13496)
-- **DM-QPMNET: Dual-modality Fusion Network for Cell Segmentation in Quantitative Phase Microscopy.** *<u>**Rajatsubhra Chakraborty**</u>, Ana Espinosa-Momox, Riley Haskin, Depeng Xu, Rosario Porras-Aguilar.* IEEE International Conference on Image Processing (ICIP) 2026. 🇫🇮 Tampere, Finland. [[Paper]](https://arxiv.org/abs/2511.00218)
+- **BiasMap: Leveraging Cross-Attentions to Discover and Mitigate Hidden Social Biases in Text-to-Image Generation.** *<u>Rajatsubhra Chakraborty</u>, Xujun Che, Depeng Xu, Cori Faklaris, Xi Niu, Shuhan Yuan.* ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026. [[Paper]](https://arxiv.org/abs/2509.13496)
+- **DM-QPMNET: Dual-modality Fusion Network for Cell Segmentation in Quantitative Phase Microscopy.** *<u>Rajatsubhra Chakraborty</u>, Ana Espinosa-Momox, Riley Haskin, Depeng Xu, Rosario Porras-Aguilar.* IEEE International Conference on Image Processing (ICIP) 2026.[[Paper]](https://arxiv.org/abs/2511.00218)
 
 ### 2025
-- **LLAVIDAL: A Large Language Vision Model for Daily Activities of Living.** *Dominick Reilly, <u>**Rajatsubhra Chakraborty**</u>, Arkaprava Sinha, Manish Kumar Govind, Pu Wang, Francois Bremond, Le Xue, Srijan Das.* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025. [[Paper]](https://arxiv.org/abs/2406.09390) [[Website]](https://adl-x.github.io/)
-- **Do We Need Large VLMs for Spotting Soccer Actions?** *Ritabrata Chakraborty, <u>**Rajatsubhra Chakraborty**</u>, Avijit Dasgupta, Sandeep Chaurasia.* International Joint Conference on Natural Language Processing and Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL) Student Research Workshop 2025 (**Oral**). [[Paper]](https://aclanthology.org/2025.ijcnlp-srw.6/)
+- **LLAVIDAL: A Large Language Vision Model for Daily Activities of Living.** *Dominick Reilly, <u>Rajatsubhra Chakraborty</u>, Arkaprava Sinha, Manish Kumar Govind, Pu Wang, Francois Bremond, Le Xue, Srijan Das.* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025. [[Paper]](https://arxiv.org/abs/2406.09390) [[Website]](https://adl-x.github.io/)
+- **Do We Need Large VLMs for Spotting Soccer Actions?** *Ritabrata Chakraborty, <u>Rajatsubhra Chakraborty</u>, Avijit Dasgupta, Sandeep Chaurasia.* International Joint Conference on Natural Language Processing and Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL) Student Research Workshop 2025 (**Oral**). [[Paper]](https://aclanthology.org/2025.ijcnlp-srw.6/)
 
 ### 2024
-- **Multiview Aerial Visual Recognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?** *Aritra Dutta, Srijan Das, Jacob Nielsen, <u>**Rajatsubhra Chakraborty**</u>, Mubarak Shah.* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024. [[Paper]](https://arxiv.org/abs/2312.04548) [[Website]](https://mavrec.github.io/)
+- **Multiview Aerial Visual Recognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?** *Aritra Dutta, Srijan Das, Jacob Nielsen, <u>Rajatsubhra Chakraborty</u>, Mubarak Shah.* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024. [[Paper]](https://arxiv.org/abs/2312.04548) [[Website]](https://mavrec.github.io/)
 
 
 ## 🔍 Reviewer
