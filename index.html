@@ -192,6 +192,8 @@
   .pub .pmeta{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:4px}
   .pub .venue{font-family:var(--mono);font-size:11.5px;letter-spacing:.5px;color:var(--accent);background:var(--accent-soft);padding:4px 10px;border-radius:3px;font-weight:700}
   .pub .oral{font-family:var(--mono);font-size:11px;letter-spacing:.5px;color:#fff;background:var(--accent);padding:4px 9px;border-radius:3px;font-weight:700}
+  .pub .ptalk{font-family:var(--mono);font-size:11px;letter-spacing:.3px;color:var(--muted);width:100%;margin-top:2px}
+  .pub .ptalk b{color:var(--accent);font-weight:700}
   .pub a.lnk{font-family:var(--mono);font-size:12px;color:var(--muted);text-decoration:none;border-bottom:1px solid var(--line-strong);transition:all .2s}
   .pub a.lnk:hover{color:var(--accent);border-color:var(--accent-line)}
   .pub .ptags{display:flex;flex-wrap:wrap;gap:7px;margin-top:5px}
@@ -390,10 +392,10 @@
         <p>New preprint with Ritabrata Chakraborty et al. Read it on the project site. ↗</p>
       </a>
       <a class="news-card" href="https://chakrabortyrajatsubhra.github.io/biasmap/" target="_blank" rel="noopener">
-        <span class="news-emoji">🔥</span>
-        <div class="news-tag">KDD 2026 · South Korea</div>
-        <h3>BiasMap Accepted</h3>
-        <p>Accepted to ACM SIGKDD (18% acceptance). Project site is live. See you in Jeju! 🇰🇷 ↗</p>
+        <span class="news-emoji">🎙️</span>
+        <div class="news-tag">KDD 2026 · Oral · South Korea</div>
+        <h3>BiasMap Selected for Oral</h3>
+        <p>Oral at ACM SIGKDD 2026 — Aug 13, 11:00 AM, Room 202A, Jeju. 🇰🇷 ↗</p>
       </a>
       <div class="news-card">
         <span class="news-emoji">🥳</span>
@@ -513,6 +515,12 @@
 
       <div class="pub-year">2026</div>
       <div class="pub">
+        <div class="ptitle">MaViSeg: Manifold Propagation and Visual Prototypes for Zero-Shot Open-Vocabulary Segmentation in Diffusion Transformers</div>
+        <div class="pauth"><u>Rajatsubhra Chakraborty</u>*, Xujun Che*, Ritabrata Chakraborty, Xi Niu, Depeng Xu &nbsp;<span style="font-size:13px">(* equal contribution)</span></div>
+        <div class="pmeta"><span class="oral">New Preprint</span><span class="venue">arXiv · 2026</span><a class="lnk" href="https://arxiv.org/abs/2608.05878" target="_blank" rel="noopener">Paper ↗</a></div>
+        <div class="ptags"><span class="ptag">Open-Vocabulary Segmentation</span><span class="ptag">Diffusion Transformers</span><span class="ptag">Training-Free</span><span class="ptag">Interpretability</span></div>
+      </div>
+      <div class="pub">
         <div class="ptitle">Vision-Language Models are Fragile Multilingual Associators</div>
         <div class="pauth">Ritabrata Chakraborty, <u>Rajatsubhra Chakraborty</u>, Shivakumara Palaiahnakote, Angelo Cangelosi, Umapada Pal</div>
         <div class="pmeta"><span class="oral">New Preprint</span><span class="venue">M²BIND · 2026</span><a class="lnk" href="https://ritabrata04.github.io/m2bind/" target="_blank" rel="noopener">Website ↗</a></div>
@@ -521,7 +529,7 @@
       <div class="pub">
         <div class="ptitle">BiasMap: Leveraging Cross-Attentions to Discover and Mitigate Hidden Social Biases in Text-to-Image Generation</div>
         <div class="pauth"><u>Rajatsubhra Chakraborty</u>, Xujun Che, Depeng Xu, Cori Faklaris, Xi Niu, Shuhan Yuan</div>
-        <div class="pmeta"><span class="venue">ACM SIGKDD (KDD) 2026</span><a class="lnk" href="https://arxiv.org/abs/2509.13496" target="_blank" rel="noopener">Paper ↗</a><a class="lnk" href="https://chakrabortyrajatsubhra.github.io/biasmap/" target="_blank" rel="noopener">Website ↗</a></div>
+        <div class="pmeta"><span class="venue">ACM SIGKDD (KDD) 2026</span><span class="oral">Oral</span><a class="lnk" href="https://arxiv.org/abs/2509.13496" target="_blank" rel="noopener">Paper ↗</a><a class="lnk" href="https://chakrabortyrajatsubhra.github.io/biasmap/" target="_blank" rel="noopener">Website ↗</a><span class="ptalk"><b>Oral talk:</b> Aug 13, 2026 · 11:00–11:20 AM · Room 202A, ICC Jeju</span></div>
         <div class="ptags"><span class="ptag">Fairness</span><span class="ptag">Interpretability</span><span class="ptag">Text-to-Image</span><span class="ptag">Bias Mitigation</span></div>
       </div>
       <div class="pub">
@@ -565,10 +573,11 @@
 
     <!-- NEWS -->
     <div class="pane" id="news">
+      <div class="news-item"><div class="ic">📄</div><p>New preprint out: <a href="https://arxiv.org/abs/2608.05878" target="_blank" rel="noopener"><strong>MaViSeg: Manifold Propagation and Visual Prototypes for Zero-Shot Open-Vocabulary Segmentation in Diffusion Transformers</strong></a>, with Xujun Che, Ritabrata Chakraborty, Xi Niu, and Dr. Depeng Xu. Now on arXiv!</p></div>
       <div class="news-item"><div class="ic">📄</div><p>New preprint out: <a href="https://ritabrata04.github.io/m2bind/" target="_blank" rel="noopener"><strong>Vision-Language Models are Fragile Multilingual Associators (M²BIND)</strong></a>, with Ritabrata Chakraborty, Shivakumara Palaiahnakote, Angelo Cangelosi, and Umapada Pal. Project site is live!</p></div>
       <div class="news-item"><div class="ic">🎉</div><p>Yaay! I have passed my <strong>Qualifier Examination!</strong></p></div>
       <div class="news-item"><div class="ic">🥳</div><p><strong>DM-QPMNet</strong> has been accepted to the <strong>IEEE International Conference on Image Processing (ICIP) 2026</strong>! See you all in Tampere, Finland! 🇫🇮</p></div>
-      <div class="news-item"><div class="ic">🔥</div><p><strong>BiasMap</strong> has been accepted to the <strong>ACM SIGKDD (KDD) 2026</strong> (18% acceptance rate)! The <a href="https://chakrabortyrajatsubhra.github.io/biasmap/" target="_blank" rel="noopener">project website</a> is live. See you all in Jeju, South Korea! 🇰🇷</p></div>
+      <div class="news-item"><div class="ic">🎙️</div><p><strong>BiasMap</strong> has been selected for an <strong>Oral at ACM SIGKDD (KDD) 2026</strong>! I'll present on <strong>August 13, 2026, 11:00–11:20 AM in Room 202A</strong>, Jeju. The <a href="https://chakrabortyrajatsubhra.github.io/biasmap/" target="_blank" rel="noopener">project website</a> is live. See you in Jeju, South Korea! 🇰🇷</p></div>
       <div class="news-item"><div class="ic">🎤</div><p>I gave a contributed talk in Room 213 of Music City Centre, Nashville, TN, at the DemoDiv CVPR workshop on June 11th at 11:45 AM.</p></div>
       <div class="news-item"><div class="ic">📄</div><p><a href="https://openreview.net/pdf?id=rkp2te25Wf" target="_blank" rel="noopener">BiasMap: Can Cross-Attention Uncover Hidden Social Biases?</a> was accepted at the <strong>CVPR 2025 DemoDiv Workshop</strong>. It was my first collaborative work with Dr. Depeng Xu and Dr. Cori Faklaris.</p></div>
       <div class="news-item"><div class="ic">🔭</div><p><a href="https://arxiv.org/abs/2503.15342" target="_blank" rel="noopener">TruthLens</a> preprint is out now!</p></div>
